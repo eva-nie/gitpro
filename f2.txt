@@ -1,8 +1,12 @@
 This is my file f2.txt
 Added one more line
 
+<<<<<<< HEAD
 
 master: new line in f2
 
 
 
+=======
+students: new line in f2
+>>>>>>> students
